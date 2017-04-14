@@ -1,0 +1,3 @@
+[submodule "passjs-store"]
+	path = passjs-store
+	url = git@github.com:wordempire/passjs-store.git
